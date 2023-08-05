@@ -1,4 +1,5 @@
 # Astro sample project
+> Sample project using Astro
 
 ## Astro Starter Kit: Basics
 
