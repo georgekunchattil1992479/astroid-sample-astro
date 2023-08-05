@@ -1,6 +1,6 @@
 # Astro sample project
 
-## Astro Starter Kit: Basics2
+## Astro Starter Kit: Basics
 
 ```
 npm create astro@latest -- --template basics
