@@ -1,4 +1,4 @@
-# Astro sample project
+# Astroid
 > Sample project using Astro
 
 ## Astro Starter Kit: Basics
